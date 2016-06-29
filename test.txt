@@ -1,0 +1,8 @@
+#point_name
+#feature_value1
+#feature_value2
+#end
+a,3,1
+b,6,2
+c,6,5
+d,6,2
