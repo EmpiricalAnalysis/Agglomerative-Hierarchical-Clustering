@@ -1,4 +1,4 @@
-# Agglomerative Hierarchical Clustering
+## Agglomerative Hierarchical Clustering
 
 In this course project I wrote a hierarchical clustering algorithm to cluster cities across the United States according to information available about each.
 
